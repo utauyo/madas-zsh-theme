@@ -1,2 +1,2 @@
 # madas-zsh-theme
-The zsh theme i use
+The zsh theme i use (Currently WIP)
