@@ -1,5 +1,5 @@
 # Madas' zsh theme
-A simple zsh theme with git status and command failure status.
+A clean zsh theme with git status and command failure status.
 
 <img src="https://github.com/Madasish/madas-zsh-theme/raw/main/screenshot.png">
 
